@@ -12,21 +12,21 @@
 
 ## [fffuel](https://fffuel.co/)
 
-## [Pattern Monster](hhttps://pattern.monster/)
+## [PatternMonster](hhttps://pattern.monster/)
 
-## [Hero Patterns](hhttps://heropatterns.com/)
+## [HeroPatterns](hhttps://heropatterns.com/)
 
-## [Super Designer](https://superdesigner.co/)
+## [SuperDesigner](https://superdesigner.co/)
 
-## [Magic Pattern](https://www.magicpattern.design/)
+## [MagicPattern](https://www.magicpattern.design/)
 
-## [Pattern Pad](https://patternpad.com/)
+## [PatternPad](https://patternpad.com/)
 
 ## [VISWIG](https://www.visiwig.com/patterns/)
 
-## [Basic Pattern Repository](https://patterns.helloyes.dev/)
+## [BasicPattern Repository](https://patterns.helloyes.dev/)
 
-## [GET WAVES](hhttps://getwaves.io/)
+## [GETWAVES](hhttps://getwaves.io/)
 
 ## [HEAZY](https://app.heazy.studio/)
 
